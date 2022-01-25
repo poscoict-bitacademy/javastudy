@@ -33,5 +33,6 @@
 	<modules>
 		<module>practice01</module>
 		<module>data-structure</module>
+		<module>chapter03</module>
 	</modules>
 </project>
